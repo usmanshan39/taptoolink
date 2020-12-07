@@ -1,0 +1,1136 @@
+.coloured{
+	color: #7d0175 !important; 
+}
+
+section{
+	margin-top: 80px;
+}
+p{
+	color: #797979;
+	font-size: 17px;
+}
+
+/************************************ top navbar styling sart****************************************/
+.navbar {
+    background-color: #fff !important;
+    transition: 750ms ease;
+    padding: 0px 70px;
+    box-shadow: -5px 13px 10px -12px #888888;
+}
+
+.navbar-nav  .nav-item .nav-link {
+	color: #000;
+	font-size: 20px;
+	font-weight: 490;
+	margin: 3px 20px;
+}
+.navbar-nav  .nav-item  .nav-link:hover {
+	color: #b502b5 !important;
+	transition-duration: 0.1s;
+	border-bottom: 2px dashed #b502b5;
+
+}
+.active_nav{
+  color: #b502b5 !important;
+  border-bottom: 2px dashed #b502b5;
+}
+
+.navbar-nav  .nav-item  .button{
+	border:1px solid #b502b5;
+	color: #b502b5;
+	border-radius: 60px;
+	margin-top: 10px;
+	padding: 2px 25px;
+	padding: 
+	font-weight: 500;
+	box-shadow: none;	
+}
+.navbar-nav  .nav-item  .button:hover{
+	
+	border:1px solid #b502b5 !important;
+}
+.navbar-nav  .nav-item  .shoping-car{
+	color: #b502b5 !important;
+}
+.navbar-nav  .nav-item  .shoping-car .notification{
+	background-color: #000;
+	padding: 2px 6px;
+	border-radius: 20px;
+	font-size: 12px;
+	color: #fff;
+}
+.navbar-toggler {
+
+  font-size: 1.25rem;
+ 
+  background-color:  #b502b5 !important;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  color: #fff !important;
+}
+.
+/************************************ top navbar styling end****************************************/
+
+
+/************************************ header styling sart****************************************/
+
+
+.bye-now-btn:hover{
+	color: #fff !important;
+}
+.bye-now-btn{
+   background-color: #b502b5 !important;
+	color: #fff;
+	padding: 10px 33px;
+	border:none;
+	font-size: 18px;
+	border-radius: 50px;
+  }
+.header .watch-video-btn{
+	background-color: #fff;
+	color: #000;
+	padding: 10px 33px;
+	border:none;
+	font-size: 18px;
+	border-radius: 50px;
+	font-weight: 500;
+}
+.header .watch-video-btn:hover{
+	color: #b502b5;
+	border:1px solid #b502b5;
+	padding:9px 32px;
+}
+.header .watch-video-btn i{
+	background-color: #b502b5;
+	color: #fff;
+	padding:5px 5px 5px 10px;
+	border-radius: 50px;
+}
+
+
+
+/************************************ header styling end****************************************/
+
+
+
+
+/********************************* about-section styling sart***********************************/
+
+
+
+
+.about .about-heading{
+	background-image: url("../img/Group 1188.png");
+  	background-repeat: no-repeat, repeat;
+  	background-position: center; 
+  	background-size: cover;
+  	
+}
+.about .text{
+	margin-top: 80px;
+}
+
+
+
+
+
+/******************************** about-section styling end**************************************/
+
+
+
+
+
+
+
+/******************************* works-section styling sart****************************************/
+
+
+
+
+.how-it-work .works-heading{
+	background-image: url("../img/Group 1188.png");
+  	background-repeat: no-repeat, repeat;
+  	background-position: center; 
+  	background-size: cover; 
+}
+
+.how-it-work .card{
+	box-shadow: 10px 10px 10px -13px #888888;
+	width: 95%;
+	border-radius: 15px;
+	margin: auto;
+	margin-top: 30px;
+	
+}
+.how-it-work .card:hover{
+	border:1px solid  #7d0175;
+	width: 95% !important;
+	transition-duration: 0.2s;
+
+}
+.how-it-work .card .img img{
+	width: 120px;
+	height: 120px;
+}
+.how-it-work .card h5{
+	font-weight: 650;
+}
+
+
+
+
+/******************************* works-section styling sart****************************************/
+
+
+
+
+
+
+
+
+
+/******************************* customization-section styling sart***********************************/
+
+.customization .text{
+	margin-top: 190px;
+}
+.customization .text h1{
+	font-weight: 700;
+}
+.customization .text h6{
+	font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/******************************* customization-section styling sart**********************************/
+
+
+
+
+
+
+
+/************************************** edit-section styling start**********************************/
+
+
+
+.edit{
+	background-color: #f6edf5;
+	padding: 30px 0px;
+}
+
+.edit .text{
+	margin-top: 100px;
+}
+.edit .text h1{
+	font-weight: 700;
+}
+.edit .text p{
+	font-size: 20px;
+
+}
+
+
+
+
+
+/************************************** edit-section styling end***********************************/
+
+
+
+
+
+
+
+
+
+
+/*********************************** testimonials-section styling start*******************************/
+
+.testimonials .testimonials-heading{
+	background-image: url("../img/Group 1188.png");
+  	background-repeat: no-repeat, repeat;
+  	background-position: center; 
+  	background-size: cover; 	
+}
+.testimonials .card{
+box-shadow: 10px 10px 10px -12px #888888;
+color: #797979;
+margin-top: 150px;
+width: 98%;
+text-align: center;
+}
+.testimonials .card:hover{
+	border:1px solid  #7d0175;
+
+	transition-duration: 0.2s;
+
+}
+.testimonials .card .img img{
+	margin-top: -90px;
+}
+ .owl-carousel .nav-btn{
+  height: 47px;
+  position: absolute;
+  width: 26px;
+  cursor: pointer;
+  top: 230px !important;
+  font-size: 40px;
+}
+
+.owl-carousel .owl-prev.disabled,
+.owl-carousel .owl-next.disabled{
+pointer-events: none;
+opacity: 0.2;
+}
+
+.owl-carousel .prev-slide{
+  background: url(nav-icon.png) no-repeat scroll 0 0;
+  left: -33px;
+  top: 50px;
+}
+.owl-carousel .next-slide{
+  background: url(nav-icon.png) no-repeat scroll -24px 0px;
+  right: -33px;
+}
+.owl-carousel .prev-slide:hover{
+ background-position: 0px -53px;
+ color: #7d0175; 
+}
+.owl-carousel .next-slide:hover{
+background-position: -24px -53px;
+color:  #7d0175;
+}
+.owl-dots {
+  text-align: center;
+  padding-top: 15px;
+}
+.owl-dots button.owl-dot {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  display: inline-block;
+  background: #f6edf5;
+  margin: 0 3px;
+  border:1px solid #7d0175 !important;
+
+}
+.owl-dots button.owl-dot.active {
+  background-color:  #7d0175;
+  width: 30px;
+  border-radius: 10px;
+  border:none !important;
+}
+.owl-dots button.owl-dot:focus {
+  outline: none;
+}
+
+
+
+
+
+
+
+
+
+/*********************************** testimonials-section styling end*******************************/
+
+
+
+
+
+
+
+
+
+
+/*********************************** price-section styling start*******************************/
+
+
+
+
+.price .price-heading{
+	background-image: url("../img/Group 1188.png");
+  	background-repeat: no-repeat, repeat;
+  	background-position: center; 
+  	background-size: cover; 
+}
+.price .card{
+	padding:40px;
+	box-shadow: 10px 10px 10px -10px #888888;
+}
+
+.price .card i{
+	color: #7d0175; 
+}
+
+.price .card h5{
+	font-size: 18px;
+}
+.price .bye-btn{
+	border:1px solid #b502b5;
+	color: #b502b5;
+	border-radius: 60px;
+	margin-top: 10px;
+	padding: 8px 35px;
+	font-size: 18px;
+	font-weight: 600;	
+}
+.price .bye-btn:hover{
+	background-color: #b502b5;
+	color: #fff;
+	transition-duration: 0.4s;
+}
+.price .price_a{
+	margin-top: 15px;
+}
+
+
+
+
+
+
+
+
+/*********************************** price-section styling end*******************************/
+
+
+
+
+
+
+
+
+
+
+
+/*********************************** compatible-section styling start*******************************/
+
+
+
+.compatible-heading{
+background-image: url("../img/Group 1188.png");
+  	background-repeat: no-repeat, repeat;
+  	background-position: center; 
+  	background-size: cover;
+}
+
+.compatible .p{
+	font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*********************************** compatible-section styling end*******************************/
+
+
+
+
+
+
+
+/*shop card start*/
+
+.drop {
+    width: 100%;
+    border: 1px dotted #000;
+    overflow: hidden;
+    text-align: center;
+    background: #fff;
+    -webkit-transition: all .5s ease-out;
+    -moz-transition: all .5s ease-out;
+    transition: all .5s ease-out;
+    margin: auto;
+}
+
+
+.drop-wrapper {
+    position: relative;
+}
+
+.drop .cont {
+    width: 100%;
+    min-height: 200px;
+    position: relative;
+    color: #8E99A5;
+    -webkit-transition: all .5s ease-out;
+    -moz-transition: all .5s ease-out;
+    transition: all .5s ease-out;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.drop .cont i {
+    font-size: 400%;
+    color: #8E99A5;
+    position: relative;
+    display: block;
+    margin-bottom: 1rem;
+}
+
+.drop input {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    background: red;
+    opacity: 0;
+    margin: auto;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0
+}
+
+.drop .cont button.close {
+    position: absolute;
+    right: 16px;
+    top: 8px;
+    opacity: 1;
+    z-index: 9999;
+    color: #fff;
+    display: none;
+}
+
+.drop .cont img {
+    height: 200px;
+    object-fit: cover;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    object-position: top;
+    z-index: 999;
+}
+.btn {
+    font-family: 'Myriad Pro'
+}
+
+.btn-primary {
+    background-color: #b502b5 ;
+    border-color: #7b007b
+}
+
+.btn-primary:hover {
+    background-color: #7b007b;
+    border-color: #7b007b
+}
+
+.btn-primary:not(:disabled):not(.disabled):active {
+    background-color: #7b007b;
+    border-color: #7b007b
+}
+
+.btn:focus {
+    outline: none;
+    box-shadow: none
+}
+
+.btn-primary:not(:disabled):not(.disabled).active:focus,
+.btn-primary:not(:disabled):not(.disabled):active:focus,
+.show>.btn-primary.dropdown-toggle:focus {
+    box-shadow: none
+}
+
+.text-primary {
+    color: #7b007b !important
+}
+
+.form-control:focus {
+    box-shadow: 0 0 0 0.2rem rgba(124, 0, 124, .25);
+}
+
+
+
+.shop-card .section-title h2 {
+    font-size: 35px;
+    color: #7c007c;
+    font-family: "Myriad Pro Bold";
+    text-align: center;
+}
+
+.shop-card label {
+    float: left;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.shop-card .total-charctor {
+    float: right;
+    font-size: 20px;
+}
+
+.shop-card .form-control {
+    font-size: 20px;
+    border-radius: 0;
+    height: 50px;
+    
+
+}
+
+.shop-card input:focus{
+	 border: 2px solid #b502b5;
+  box-shadow: none !important;
+}
+
+.shop-card .drop button {
+    display: block;
+    margin: 0 auto;
+}
+
+.shop-card .quantaty {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    justify-content: center;
+}
+
+.shop-card .quantaty .counter {
+    background-color: rgb(239, 239, 239);
+}
+
+.shop-card .total-cost {
+    font-size: 30px;
+    color: #ff0404;
+    font-family: "Myriad Pro Semibold";
+}
+
+.shop-card .btn-add {
+    font-size: 20px;
+    color: #ffffff;
+    font-family: "Myriad Pro Bold";
+    border-radius: 28px;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    padding-bottom: .6rem;
+   border:none;
+}
+
+.shop-card .btn-add:hover {
+    
+}
+
+.shop-card .satisfaction {
+    color: #000000;
+    font-size: 27px;
+    font-family: "Myriad Pro Bold";
+}
+
+.shop-card .img-card {
+    margin-top: 5rem;
+    width: 100%;
+}
+
+.shop-card .card-img-wrapper {
+    position: relative;
+}
+
+.shop-card .card-img-wrapper h5 {
+    position: absolute;
+    bottom: 9px;
+    color: #fff;
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+    padding-right: 20px;
+}
+
+.shop-card .choose-method img {
+    margin-right: 5px;
+}
+
+.shop-card .choose-method .check {
+    display: none;
+}
+
+.shop-card .choose-method input[type="radio"] {
+    display: none;
+}
+
+.shop-card .choose-method input:checked~.check {
+    display: inline;
+}
+
+.shop-card .choose-method input:checked~.uncheck {
+    display: none;
+}
+
+.shop-card .col-img {
+    display: flex;
+    flex-flow: column;
+    justify-content: space-between;
+}
+
+.shop-card .plan {
+    background-image: url(../img/pic.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    min-height: 300px;
+}
+
+.shop-card .plan .section-heading h3 {
+    font-size: 39px;
+    color: #ffffff;
+    font-family: "Myriad Pro Bold";
+}
+
+.shop-card .plan .section-subheading h5 {
+    font-size: 24px;
+    color: #ffffff;
+    font-family: "Myriad Pro Semibold";
+}
+
+.shop-card .plan .rates h1 {
+    font-size: 62px;
+    color: #ffffff;
+    font-family: "Myriad Pro Bold";
+    margin-bottom: 0;
+}
+
+.shop-card .plan .rates span {
+    font-size: 21px;
+    color: #ffffff;
+    font-family: "Myriad Pro Bold";
+    line-height: 1;
+}
+
+@media screen and (max-width:576px) {
+    .shop-card .section-title h2 {
+        font-size: 40px;
+    }
+    .shop-card .img-card {
+        margin-top: 0;
+        margin-bottom: 2rem;
+    }
+    .shop-card .choose-method {
+        margin-bottom: 1rem;
+    }
+    .shop-card .card-img-wrapper h5 {
+        bottom: 40px;
+    }
+}
+
+
+
+
+
+
+
+
+
+/*shop card end*/
+
+
+
+
+
+
+
+
+
+/*********************************** contact us page styling start*******************************/
+
+
+
+
+
+
+.contact .contact-heading{
+	background-image: url("../img/Group 1188.png");
+  	background-repeat: no-repeat, repeat;
+  	background-position: center; 
+  	background-size: cover;
+  	
+}
+
+.contact .card{
+	box-shadow: 10px 15px 10px -12px #888888;
+	padding: 50px;
+	border-top-left-radius: 70px;
+}
+.contact .contact-us-btn{
+	background-color: #b502b5 !important;
+	color: #fff;
+	padding: 10px 33px;
+	border:none;
+	font-size: 18px;
+	border-radius: 50px;
+}
+.contact .contact-us-btn:hover{
+	border:1px solid #b502b5;
+	color: #b502b5;
+	background-color: #fff !important;
+	padding: 9px 32px;
+	transition-duration: 0.4s;
+}
+.contact .quantity .count{
+	background-color: #b502b5;
+	padding: 3px 8px;
+	color: #fff;
+	font-weight: bolder;
+	font-size: 20px;
+}
+.contact .quantity .count-minus{
+	background-color: #b502b5;
+	padding: 3px 10px;
+	color: #fff;
+	font-weight: bolder;
+	font-size: 20px;
+}
+.contact input:focus {
+  border: 2px solid #b502b5;
+  box-shadow: none !important;
+}
+.contact .quantity input {
+  border: none !important;
+  box-shadow: none !important;
+  text-align: center;
+}
+.contact .quantity input:focus{
+  border: none !important;
+  box-shadow: none !important;
+}
+
+.contact textarea:focus {
+  border: 2px solid #b502b5;
+  box-shadow: none !important;
+}
+
+
+/*********************************** tactus page styling end*******************************/
+
+
+
+
+
+
+
+
+/*********************************** sign in page styling start*******************************/
+
+
+
+
+
+
+.sign_in .heading{
+	background-image: url("../img/Group 1188.png");
+  	background-repeat: no-repeat, repeat;
+  	background-position: center; 
+  	background-size: cover;
+  	
+}
+.sign_in .form{
+	padding: 10px 40px;
+}
+
+
+.sign_in .card{
+	box-shadow: 10px 15px 10px -12px #888888;
+	padding: 50px;
+	border-top-left-radius: 70px;
+}
+
+.sign_in a{
+	color: #b502b5;
+	
+}
+.sign_in .new_one{
+}
+.sign_in input:focus{
+  border: 2px solid #b502b5;
+  box-shadow: none !important;
+}
+.sign_in textarea:focus{
+  border: 2px solid #b502b5;
+  box-shadow: none !important;
+}
+.sign_in  .sign-in-btn{
+	background-color: #b502b5 !important;
+	color: #fff;
+	padding: 10px 33px;
+	border:none;
+	font-size: 18px;
+	border-radius: 50px;
+}
+.sign_in  .sign-in-btn:hover{
+	border:1px solid #b502b5;
+	color: #b502b5;
+	background-color: #fff !important;
+	padding: 9px 32px;
+	transition-duration: 0.4s;
+}
+
+
+
+
+
+/*********************************** signin page styling end*******************************/
+
+
+
+
+
+
+
+
+
+
+/*********************************** footer-section styling start*******************************/
+
+
+
+
+.footer{
+	background-color: #7d0175;
+	color: #fff;
+	padding: 20px  0px;
+	padding-bottom: 0px;
+}
+.footer .text{
+	font-size: 16px;
+}
+.footer a{
+	text-decoration: none;
+	color: #fff;
+}
+.footer h6{
+	margin-top: 20px;
+	font-size: 15px;
+}
+.footer .link:hover{
+	padding-left: 10px;
+	transition-duration: 0.6s;
+}
+
+.footer .i{
+	padding: 5px;
+	font-size: 20px;
+}
+.footer .facebook{
+	padding: 5px 10px;
+	font-size: 20px;
+}
+.footer .facebook:hover{
+
+	background-color: #fff;
+	color:  #7d0175;
+	border-radius: 50px;
+	transition-duration: 0.6s;
+}
+.footer .i:hover{
+	background-color: #fff;
+	color:  #7d0175;
+	border-radius: 50px;
+	transition-duration: 0.6s;
+}
+.footer hr{
+	
+	background-color: #fff;
+}
+.footer .end-line{
+	background-color: #54014f;
+	padding:none;
+}
+.footer .end-line p{
+	color: #fff;
+	margin: 10px 0px;
+	font-size: 15px;
+}
+.footer .footer_img{
+	width: 200px;
+}
+
+
+
+/*********************************** footer-section styling end*******************************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/************************************** Media Quries****************************************/
+
+
+
+
+
+
+@media screen and (max-width: 280px){
+.navbar{
+	padding:0px 7px;
+}
+.customization .text{
+	margin-top: 10px;
+}
+.owl-carousel .prev-slide{
+	display: none;
+}
+.owl-carousel .next-slide{
+	display: none;
+}
+.footer h6{
+	margin-top: 20px;
+	font-size: 12px;
+}
+.footer .footer_img{
+	width: 120px;
+}
+.footer .end-line p{
+	font-size: 12px;
+}
+
+
+
+}
+@media screen and (max-width: 360px){
+.navbar{
+	padding:0px 7px;
+}
+.customization .text{
+	margin-top: 10px;
+}
+.owl-carousel .prev-slide{
+	display: none;
+}
+.owl-carousel .next-slide{
+	display: none;
+}
+.footer h6{
+	margin-top: 20px;
+	font-size: 12px;
+}
+.footer .footer_img{
+	width: 120px;
+}
+.footer .end-line p{
+	font-size: 12px;
+}
+
+
+
+
+}
+
+@media screen and (max-width: 411px){
+.navbar{
+	padding:0px 7px;
+}
+.customization .text{
+	margin-top: 10px;
+}
+.owl-carousel .prev-slide{
+	display: none;
+}
+.owl-carousel .next-slide{
+	display: none;
+}
+.footer h6{
+	margin-top: 20px;
+	font-size: 12px;
+}
+.footer .footer_img{
+	width: 120px;
+}
+.footer .end-line p{
+	font-size: 12px;
+}
+
+
+
+
+}
+
+@media screen and (max-width: 414px){
+.navbar{
+	padding:0px 7px;
+}
+.customization .text{
+	margin-top: 10px;
+}
+.owl-carousel .prev-slide{
+	display: none;
+}
+.owl-carousel .next-slide{
+	display: none;
+}
+.footer h6{
+	margin-top: 20px;
+	font-size: 12px;
+}
+.footer .footer_img{
+	width: 120px;
+}
+.footer .end-line p{
+	font-size: 12px;
+}
+
+
+
+
+}
+
+@media screen and (max-width: 540px){
+.navbar{
+	padding:0px 7px;
+}
+.customization .text{
+	margin-top: 10px;
+}
+.owl-carousel .prev-slide{
+	display: none;
+}
+.owl-carousel .next-slide{
+	display: none;
+}
+.footer h6{
+	margin-top: 20px;
+	font-size: 12px;
+}
+.footer .footer_img{
+	width: 120px;
+}
+.footer .end-line p{
+	font-size: 12px;
+}
+
+
+
+
+
+}
+
